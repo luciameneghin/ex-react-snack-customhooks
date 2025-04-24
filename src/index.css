@@ -1,0 +1,11 @@
+div {
+  margin-top: 50px;
+  text-align: center;
+
+  button {
+    background-color: lightblue;
+    color: white;
+    padding: 10px;
+    border: none;
+  }
+}
